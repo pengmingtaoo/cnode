@@ -45,12 +45,13 @@ html body {
 }
 
 .main {
-  width: 90%;
+  width: 100%;
   max-width: 1400px;
-  min-width: 960px;
+  min-width: 750px;
   margin: 15px auto;
   margin-bottom: 0;
   min-height: 400px;
+  overflow: hidden;
 }
 
 .content {

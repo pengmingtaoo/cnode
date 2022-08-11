@@ -109,11 +109,6 @@ export default {
         }
 
     },
-    computed: {
-        // soreScore() {
-        //     return this.posts.score.sort(sortNumber);
-        // }
-    },
     //页面加载成功之前的操作
     beforeMount() {
         this.isLoading = true;
@@ -122,10 +117,6 @@ export default {
 
 
 };
-// function sortNumber(a, b) {
-//     return a - b;
-// }
-
 </script>
 
 <style scoped>

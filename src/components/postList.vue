@@ -112,6 +112,7 @@ export default {
 </script>
 
 <style scoped>
+
 .PostList {
     background-color: #ffffff;
 }
@@ -195,7 +196,6 @@ li:not(:first-child):hover {
     margin-left: 10px;
     color: #333333;
     cursor: pointer;
-    max-width: 750px;
     display: flow-root;
     white-space: nowrap;
     /*强行不换行 */

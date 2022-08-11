@@ -110,6 +110,7 @@ export default {
 </script>
 
 <style scoped>
+
 @import url('../assets/markdown-github.css');
 
 #article {
@@ -121,7 +122,6 @@ export default {
     font-size: 22px;
     display: inline-block;
     vertical-align: bottom;
-    width: 1024px;
 }
 
 
